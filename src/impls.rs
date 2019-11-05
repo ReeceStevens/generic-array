@@ -228,5 +228,8 @@ impl_from! {
     512 => ::typenum::U512,
 
     1000 => ::typenum::U1000,
-    1024 => ::typenum::U1024
+    1024 => ::typenum::U1024,
+    2048 => ::typenum::U2048,
+    4096 => ::typenum::U4096,
+    8192 => ::typenum::U8192
 }
